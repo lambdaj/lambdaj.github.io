@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: 블로그 시작
 ---
+원래는 블로그 별로 좋아하는 편이 아니였는데 최근 몇몇 개발자 블로그들을 보고 나도 시작한다
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+자바를 싫어하는 편인데 더 싫어하는 루비로 만들어진 Jekyll을 사용해야 한다는게 조금 싫긴 하지만 딱히 별다른 대안이 없다
+하나 만들자니 그것도 귀찮고 검색해보니 [바로 사용하는 방법](http://ilmol.com/2015/01/Jekyll,Git%20%EC%9D%84%20%EB%AA%B0%EB%9D%BC%EB%8F%84%20%EB%AC%B4%EB%A3%8C%20Github%20Pages%20%EC%A6%90%EA%B8%B0%EA%B8%B0.html)이 있길래 Github 계정도 새로 파서 하나 만들었다
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+우선 Go 개발자들이 알았으면 하는 내용이 있었는데 지금 생각이 안난다
+그거때문에 블로그가 하고 싶어졌는데 까먹다니 부들부들
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+생각 날때마다 하나씩 써봐야겠다 블로그 재미쪙!
